@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/tajmin/tajmin/main/profile_header.jpg "Header")]
+![Header](https://raw.githubusercontent.com/tajmin/tajmin/main/profile_header.jpg "Header")
 
 
 
